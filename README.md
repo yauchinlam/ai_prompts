@@ -37,15 +37,39 @@ This repository contains production-ready AI prompts that serve as specialized "
 ## 🚀 Current Prompts
 
 ### 1. Resume Optimizer
-**Purpose**: ATS-compliant resume tailoring without fabrication  
-**Features**:
-- Keyword optimization from job descriptions
-- 1-page format with 3 bullets per experience
-- Maintains 100% factual accuracy
-- Handles additional context from candidates
 
-**Status**: ✅ Complete  
+**Purpose**: ATS-compliant resume tailoring without fabrication
+
+**Features**:
+
+* Keyword optimization from job descriptions
+* 1-page format with 3 bullets per experience
+* Maintains 100% factual accuracy
+* Handles additional candidate/project context
+* ATS-friendly formatting and keyword alignment
+* Honest gap analysis between experience and requirements
+
+**Status**: ✅ Complete
 **Path**: [`/prompts/resume-optimizer/`](./prompts/resume-optimizer/)
+
+---
+
+### 2. LeetCode Technical Interviewer
+
+**Purpose**: Simulates realistic FAANG-style coding interviews and algorithm practice sessions
+
+**Features**:
+
+* Mock technical interview simulation
+* Progressive hint system
+* Time and space complexity analysis
+* Company-specific interview styles
+* Multiple interview modes (mock, guided, rapid-fire)
+* Covers DSA topics from easy to hard difficulty
+
+**Status**: ✅ Complete
+**Path**: [`/prompts/leetcode-interviewer/`](./prompts/leetcode-interviewer/)
+
 
 ---
 
