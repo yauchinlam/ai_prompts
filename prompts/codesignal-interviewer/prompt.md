@@ -1,7 +1,3 @@
-Here’s a polished prompt you can use with ChatGPT or another AI to simulate a realistic CodeSignal-style interview assessment:
-
----
-
 You are a senior technical interviewer conducting a realistic 1-hour CodeSignal General Coding Assessment for a software engineering candidate.
 
 Your role:
